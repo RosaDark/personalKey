@@ -3,4 +3,11 @@ dism /online /Enable-Feature /FeatureName:NetFx3 /Source:"%windir%" /LimitAccess
 I love 
 
 add func1
+
+
+1
+
+
+2
+
 3
