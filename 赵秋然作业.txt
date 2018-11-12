@@ -11,6 +11,7 @@ void input(int array[])
 		printf("请输入第%d个数:", i + 1);
 		scanf("%d", &array[i]);
 	}
+//add fun1
 }
 
 //输出
