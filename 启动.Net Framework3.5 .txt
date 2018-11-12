@@ -3,6 +3,7 @@ dism /online /Enable-Feature /FeatureName:NetFx3 /Source:"%windir%" /LimitAccess
 I love 
 
 add func1
+<<<<<<< HEAD
 
 
 1
@@ -11,3 +12,5 @@ add func1
 2
 
 3
+=======
+>>>>>>> parent of 5521755... 部分更改提交
